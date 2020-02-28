@@ -1,4 +1,4 @@
-Essa rotina possibilita a criação de um banco longitudinal a partir da PNAD Contínua, 
-de acordo com os preceitos contidos na Nota Metodológica 
-"É possível gerar estimativas conjunturais a partir de dados longitudinais extraídos da Pnad Contínua?",
-disponível em: https://rct.dieese.org.br/index.php/rct/article/view/239.
+Essa rotina possibilita a criaÃ§Ã£o de um banco longitudinal a partir da PNAD ContÃ­nua, 
+de acordo com a metodologia proposta na Nota MetodolÃ³gica 
+"Ã‰ possÃ­vel gerar estimativas conjunturais a partir de dados longitudinais extraÃ­dos da Pnad ContÃ­nua?",
+disponÃ­vel em: https://rct.dieese.org.br/index.php/rct/article/view/239.
